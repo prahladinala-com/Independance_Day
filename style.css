@@ -1,0 +1,30 @@
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul li {
+    list-style: none;
+    height: 33.33vh;
+    width: 100vw;
+}
+#orange, #white, #green {
+    height: 100%;
+}
+#orange {
+    background-color: #e67e22;
+}
+#white {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: blue;
+    font-size: 50px;
+    /* font-family: 'Kaushan Script', cursive; */
+    font-family: 'Special Elite', cursive;
+}
+#green {
+    background-color: green;
+}
